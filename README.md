@@ -4,7 +4,7 @@
 
 **Menu do Turbo EverDrive PRO (PC Engine / TurboGrafx-16) em português, com capas dos jogos, cheats prontos e plano de fundo personalizado — e um aplicativo que deixa o cartão SD pronto em poucos cliques.**
 
-Um projeto do blog **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.
+Um projeto **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.
 
 ![Lista de jogos com a capa ao lado](imagens/menu-lista-capa.png)
 

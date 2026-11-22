@@ -4,7 +4,7 @@
 
 O Gerenciador do SD deixa o cartão do seu **Turbo EverDrive PRO** pronto para o PC Engine / TurboGrafx-16 em poucos cliques: instala o menu **TEPro OS** (em português ou inglês), organiza e corrige os jogos, gera as capas, grava cheats prontos, troca o plano de fundo do menu e copia a BIOS do CD.
 
-Um projeto do blog **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.
+Um projeto **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.
 
 ---
 
